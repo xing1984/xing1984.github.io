@@ -1,2 +1,3 @@
-# slimePlus.github.io
-https://slime.plus
+# slime.plus
+
+ようこそ、slime.plusへ
