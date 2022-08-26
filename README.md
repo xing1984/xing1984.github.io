@@ -1,3 +1,3 @@
-# slime.plus
+# zx1984.cn
 
-ようこそ、slime.plusへ
+Welcome, zx1984.cn
